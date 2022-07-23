@@ -1,6 +1,9 @@
  -👋 Hi, I’m @mburns2678
+ 
  -👀 I’m interested in remote sensing, climate science, and native Californian ecology. 
+ 
  -🌱 I’m currently learning ArcGIS, MaxEnt, Python, and R. 
+ 
  -📫 How to reach me: 
   -email: mburns2678@berkeley.edu
   
